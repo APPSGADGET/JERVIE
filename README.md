@@ -82,4 +82,7 @@ Check `/repos/automation-portfolio` for diagrams, Make.com JSON exports, and sho
 **Last updated:** `2025-11-27 12:00:00`  
 
 ---
+<!-- START:LAST_UPDATE -->
+(autoupdated block will appear here)
+<!-- END:LAST_UPDATE -->
 
