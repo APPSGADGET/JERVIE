@@ -83,4 +83,3 @@ Check `/repos/automation-portfolio` for diagrams, Make.com JSON exports, and sho
 
 ---
 
-> If you want: I can generate `assets/header.gif` and a set of skill icon PNGs sized for this README.  
